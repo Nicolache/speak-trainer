@@ -1,0 +1,234 @@
+31/03/2024
+https://www.youtube.com/watch?app=desktop&v=BozSexNRFT4
+https://espaniero.ru/blog/kak-pravilno-stavit-udareniya-v-ispanskom-yazyke
+
+Владимир Высоцкий - Ой, где был я вчера
+Vladimir Vysockiy - Oy, donde estaba ayer
+Vladimir Vysotsky - Oh, ¿dónde estaba ayer?
+
+Воспоминания о вчерашнем дне
+Recuerdos del diá que pasó
+Recuerdos de ayer
+
+Герой рассказывает о своем вчерашнем дне, когда он был пьян и вел себя неадекватно.
+El protogonísta dice sobre su diá qué pasó, cuando le etaba boracho y behaveó raro.
+El héroe habla de su día de ayer, cuando estaba borracho y se comportó de manera inapropiada.
+
+Он вспоминает, как ругался с хозяйкой, целовался с подругой и пел песни.
+El recuerde como malditaba con la dueña y besaba con su amiga y contaba las canciones.
+Recuerda cómo discutía con la anfitriona, besaba a su novia y cantaba canciones.
+
+Утром он проснулся с похмельем и начал крушить вещи, включая хрусталь и кофейный сервиз.
+La mañana le despertaba con resaca y empesaba a romper las cosas, incluso cristal y serviceo de cafe.
+Por la mañana se despertó con resaca y empezó a destruir cosas, entre ellas cristales y un juego de café.
+
+Последствия вчерашнего дня
+Las coinscedencias del diá qué pasó
+Consecuencias de ayer
+
+Герой был связан и избит, а его лицо было в синяках.
+El protogonísta estaba atarado y batirado.
+El héroe fue atado y golpeado, y su rostro quedó magullado.
+
+Он пытался просить прощения, но его продолжали бить и издеваться над ним.
+Le trataba a pedir perdonad pero le continuaba ser atarado y imitar sobre el.
+Intentó pedir perdón, pero continuaron golpeándolo y burlándose de él.
+
+В конце концов, он был развязан, но вилки были спрятаны.
+Al finál, le estaba disatarado pero los tenedores estaban cubierto.
+Al final lo desataron, pero los tenedores quedaron escondidos.
+
+Герой вспоминает, что он был как раненый зверь, и в конце концов, он разбил окна и двери, уронил балкон.
+El protogonísta recuérde que estaba como un animal injurado y al finál le ropeaba las ventánas ylas puértas, cayo el balcón.
+El héroe recuerda que era como un animal herido y que al final rompió ventanas y puertas y derribó el balcón.
+
+Он не может найти, где был вчера, и остается с побоями на лице.
+No le puede encontrar donde estaba ayér y se dejando con los atarados en la cara.
+No encuentra dónde estuvo ayer y queda con un hematoma en la cara.
+
+
+======================================================================
+ [-Oy, donde-] {+Oh, ¿dónde+}
+======================================================================
+ [-del diá que pasó-] {+de ayer+}
+======================================================================
+ [-protogonísta dice sobre-] {+héroe habla de+}
+======================================================================
+ [-diá qué pasó,-] {+día de ayer,+}
+======================================================================
+ [-le etaba boracho-] {+estaba borracho+}
+======================================================================
+ [-behaveó raro.
+El recuerde como malditaba-] {+se comportó de manera inapropiada.
+Recuerda cómo discutía+}
+======================================================================
+ [-dueña y-] {+anfitriona,+}
+======================================================================
+ [-con-] {+a+}
+======================================================================
+ [-amiga-] {+novia+}
+======================================================================
+ [-contaba las-] {+cantaba+}
+======================================================================
+
+[-La-]
+{+Por la+}
+======================================================================
+ [-le despertaba-] {+se despertó+}
+======================================================================
+ [-empesaba-] {+empezó+}
+======================================================================
+ [-romper las-] {+destruir+}
+======================================================================
+ [-incluso cristal-] {+entre ellas cristales+}
+======================================================================
+ [-serviceo-] {+un juego de café.
+======================================================================
+Consecuencias+}
+======================================================================
+ [-cafe.
+ del diá qué pasó-] {+ayer+}
+======================================================================
+ [-protogonísta estaba atarado-] {+héroe fue atado+}
+======================================================================
+ [-batirado.
+Le trataba a-] {+golpeado, y su rostro quedó magullado.
+Intentó+}
+======================================================================
+ [-perdonad-] {+perdón,+}
+======================================================================
+ [-le continuaba ser atarado y imitar sobre el.-] {+continuaron golpeándolo y burlándose de él.+}
+======================================================================
+ [-finál, le estaba disatarado-] {+final lo desataron,+}
+======================================================================
+ [-estaban cubierto.-] {+quedaron escondidos.+}
+======================================================================
+ [-protogonísta recuérde-] {+héroe recuerda+}
+======================================================================
+ [-estaba-] {+era+}
+======================================================================
+ [-injurado-] {+herido+}
+======================================================================
+ {+que+}
+======================================================================
+ [-finál le ropeaba las ventánas ylas puértas, cayo-] {+final rompió ventanas y puertas y derribó+}
+======================================================================
+ [-le puede encontrar donde estaba ayér-] {+encuentra dónde estuvo ayer+}
+======================================================================
+ [-se dejando-] {+queda+}
+======================================================================
+ [-los atarados-] {+un hematoma+}
+======================================================================
+my.tmp: 134 words  45 34% common  0 0% deleted  89 66% changed
+goog.tmp: 127 words  45 35% common  1 1% inserted  81 64% changed
+20/03/2024
+  https://www.youtube.com/watch?v=tM8F-EOhdjg
+
+  Чужие миры - Шансы жизни и интеллекта / Действительно ли мы одни во Вселенной?
+  Mundos extraños - La posibilidad de vida y intelegencia.
+  Mundos alienígenas: posibilidades de vida e inteligencia / ¿Estamos realmente solos en el universo?
+
+  Загадка внеземных цивилизаций
+  Un misterio de     civilizaciones extranjeros.
+  El misterio de las civilizaciones extraterrestres.
+
+  Обсуждение уникальности и сложности строения человека, его способности к логическому мышлению и планированию.
+  Un discusion sobre la unicidad y la complicidad de la estructura humana, su posibilidad de pensar logicamente, y de planear.
+  Discusión sobre la singularidad y complejidad de la estructura humana, su capacidad para pensar lógicamente y planificar.
+
+  Вопрос о том, одни ли мы во вселенной, и поиск ответа на этот вопрос.
+  Una pregunta si somos soleados en una universe, y busca de contesto de esta pregunta.
+  La pregunta de si estamos solos en el universo y la búsqueda de una respuesta a esta pregunta.
+
+  Оценка вероятности существования внеземных цивилизаций
+  Cotizacion de posibilidad de existencia de civilizaciónes extranjeros.
+  Evaluación de la probabilidad de la existencia de civilizaciones extraterrestres.
+
+  Формула Фрэнсиса Дрейка для оценки вероятности существования разумной жизни во вселенной.
+  La formula de Frencis Drake para cotizar la pocibilidad de existéncia de vida enteligente.
+  Fórmula de Francis Drake para estimar la probabilidad de existencia de vida inteligente en el universo.
+
+  Метод Николая Кардашова для классификации цивилизаций по уровню технологического развития.
+  El metodo de Nickolay Cardachov para cotizar civilizaciónes por nivél de desaroyo tecnologica.
+  El método de Nikolai Kardashov para clasificar las civilizaciones por nivel de desarrollo tecnológico.
+
+
+======================================================================
+ [-extraños - La posibilidad-] {+alienígenas: posibilidades+}
+======================================================================
+ [-y intelegencia.
+  Un-] {+e inteligencia / ¿Estamos realmente solos en el universo?
+  El+}
+======================================================================
+ {+las+}
+======================================================================
+ [-extranjeros.
+  Un discusion-] {+extraterrestres.
+  Discusión+}
+======================================================================
+ [-unicidad-] {+singularidad+}
+======================================================================
+ [-la complicidad-] {+complejidad+}
+======================================================================
+ [-posibilidad de-] {+capacidad para+}
+======================================================================
+ [-logicamente,-] {+lógicamente+}
+======================================================================
+ [-de planear.
+  Una-] {+planificar.
+  La+}
+======================================================================
+ {+de+}
+======================================================================
+ [-somos soleados-] {+estamos solos+}
+======================================================================
+ [-una universe,-] {+el universo+}
+======================================================================
+ [-busca de contesto-] {+la búsqueda+}
+======================================================================
+ {+una respuesta a+}
+======================================================================
+
+  [-Cotizacion-]
+  {+Evaluación+}
+======================================================================
+ [-posibilidad-] {+la probabilidad+}
+======================================================================
+ {+la+}
+======================================================================
+ [-civilizaciónes extranjeros.
+  La formula-] {+civilizaciones extraterrestres.
+  Fórmula+}
+======================================================================
+ [-Frencis-] {+Francis+}
+======================================================================
+ [-cotizar-] {+estimar+}
+======================================================================
+ [-pocibilidad-] {+probabilidad+}
+======================================================================
+ [-existéncia-] {+existencia+}
+======================================================================
+ [-enteligente.-] {+inteligente en el universo.+}
+======================================================================
+ [-metodo-] {+método+}
+======================================================================
+ [-Nickolay Cardachov-] {+Nikolai Kardashov+}
+======================================================================
+ [-cotizar civilizaciónes-] {+clasificar las civilizaciones+}
+======================================================================
+ [-nivél-] {+nivel+}
+======================================================================
+ [-desaroyo tecnologica.-] {+desarrollo tecnológico.+}
+======================================================================
+my.tmp: 84 words  39 46% common  0 0% deleted  45 54% changed
+goog.tmp: 95 words  39 41% common  6 6% inserted  50 53% changed
+13/11/2023
+  Al sábado estuve al café. Pedí una pizza con cerveza sin alcohol.
+  He pasado mucho tiempo alli porque mucha gente. Sin embargo, ha estado bueno borque el tiempo estaba bien.
+  Ayer, he tenido un viaje de bici en la montaña. 
+01/11/2023
+A pesar de tener un día libre hoy, me despertó bastante temprano.
+Al pricipio no pensaba a trabajar, pero luego vi un mensaje de mi colega.
+Poco a poco, hoy hice muchas cosas que me permitirán trabajar menos mañana.
+Después del trabajo, estaba jugando un videojuego ( se llama Pixel Gun 3D ).
+
